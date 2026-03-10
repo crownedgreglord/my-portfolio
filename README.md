@@ -1,28 +1,67 @@
-# My Portfolio Website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <style>
+        body{
+          font-family: Arial;
+          text-align: center;
+          background-color:white;
+        }
+        
+        .container{
+          width: 80%;
+          margin: auto;
+        }
+        
+        img{
+          width:150px;
+          border-radius:50%;
+        }
+        button{
+  padding:10px 20px;
+  font-size:16px;
+  background-color:#4CAF50;
+  color:white;
+  border:none;
+  cursor:pointer;
+}
 
-Welcome to my personal portfolio website.
+button:hover{
+  background-color:#45a049;
+}
+</style>
+</head>
+<body>
+    <div class="container">
 
-## About Me
-I am a **Computer Engineer and Software Developer** passionate about building technology solutions and solving real-world problems.
+        <h1 style="color:rgb(222, 18, 18);">Okoro Gregory Ogaga</h1>
+        <img src="WhatsApp Image 2026-03-09 at 4.27.08 PM (1).jpeg" alt="My Photo" width="500" height="300">
+        
+        <h2 style="color:blue;">About Me</h2>
+        <p>Computer Engineer 💻 | Software Developer ⚡ | IT Support Engineer at Layer3
 
-I currently work as an **IT Support Engineer at Layer3**, where I help maintain IT systems, troubleshoot issues, and support technical operations.
+          I build technology, solve problems, and help systems run smoothly.
+          
+          Outside tech, I’m active in the Forex & Crypto space as a KOL, sharing insights with my community.
+          
+          I’m also a singer, dancer, and a professional reply guy, bringing energy to both creative spaces and online conversations.</p>
+        
+        <h2 style="color:blue;">My Hobbies</h2>
+        <ul style="list-style:none;">
+        <li>🎵 Music</li>
+        <li>🎮 Gaming</li>
+        <li>📚 Learning new things</li>
+        </ul>
 
-Beyond technology, I am also active in the **Forex and Cryptocurrency space as a KOL**, where I share insights and engage with the trading community.
+        <h2>Contact Me</h2>
+<button onclick="alert('gregoryokorogreglord@gmail.com')">
+Contact Me
+</button>
 
-I am also a **singer and dancer**, and I enjoy expressing creativity through music and performance. Online, I am known as a **reply guy**, engaging with communities and conversations across different platforms.
-
-## Website Purpose
-This portfolio showcases:
-- My projects
-- My technical skills
-- My professional experience
-- My interests and activities
-
-## Technologies Used
-- HTML
-- CSS
-- Git
-- GitHub
-
-## Live Website
-Once GitHub Pages is enabled, the site will be available at:
+</div>
+</body>
+</html>
