@@ -39,7 +39,8 @@ button:hover{
     <div class="container">
 
         <h1 style="color:rgb(222, 18, 18);">Okoro Gregory Ogaga</h1>
-        <img src="WhatsApp Image 2026-03-09 at 4.27.08 PM (1).jpeg" alt="My Photo" width="500" height="300">
+        <img src="![WhatsApp Image 2026-03-09 at 4 27 08 PM (1)](https://github.com/user-attachments/assets/4d448ca5-abde-42c8-b08f-ace4ad623b8d)
+" alt="My Photo" width="500" height="300">
         
         <h2 style="color:blue;">About Me</h2>
         <p>Computer Engineer 💻 | Software Developer ⚡ | IT Support Engineer at Layer3
